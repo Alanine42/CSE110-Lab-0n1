@@ -5,7 +5,7 @@ I taught myself *a bit of* React (JavaScript frontend) and Django (Python backen
 
 To be honest, I'd never think too seriously about the code structure or *design*. All I did was worrying too much about time complexity (good habit if you grind LeetCode). 
 
-When I am not coding, you may find me either `(`in front of a piano `||` smashing in badminton court `||` reading sci-fi novels by Liu Cixin`)`. 
+When I am not coding, you may find me either `(`in front of a piano `||` smashing badminton `||` reading sci-fi by Liu Cixin`)`. 
 
 Bruh
 
