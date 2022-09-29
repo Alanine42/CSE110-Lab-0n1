@@ -5,14 +5,10 @@ I taught myself *a bit of* React (JavaScript frontend) and Django (Python backen
 
 To be honest, I'd never think too seriously about the code structure or *design*. All I did was worrying too much about time complexity (good habit if you grind LeetCode). 
 
-Well, time complexity doesn't really matter for the projects I did because they never scale.  But *software design / code structure* (whatever you call it / maybe CSE110 teaches it) matters for any project. Nobody wants to open up their own repo and having trouble understand a line they wrote just a few months ago. 
-
-
 When I am not coding, you may find me either `(`in front of a piano `||` smashing in badminton court `||` reading sci-fi novels by Liu Cixin`)`. 
 
 Bruh
 
-.
 
 # What does Markdown offer?
 
@@ -56,13 +52,13 @@ Check [this screenshot](screenshots/1.%20git%20clone%20repository.png) out.
 Man here's another [relative link](screenshots/7.%20staged%20changes%20(cmd%20line).png)
 
 ## The chromatic scale, checked
-- [x] dol, a dear, a female dear
-- [x] re, a drop of golden sun
-- [x] mi, a name, I call myself
-- [x] fa, a long long way to run...
-- [x] sol, a needle pulling thread
-- [x] la, a note to follow sol
-- [x] ti, a drink with jam and bread
-- [ ] and that'll bring us back to dol
+- [x]  Dol, a dear, a female dear
+- [x]  Re, a drop of golden sun
+- [x]  Mi, a name, I call myself
+- [x]  Fa, a long long way to run...
+- [x]  Sol, a needle pulling thread
+- [x]  La, a note to follow sol
+- [x]  Ti, a drink with jam and bread
+- [ ]  and that'll bring us back to dol
     
 (from *Sound of Music*)
