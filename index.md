@@ -3,7 +3,7 @@ Hey, Alan here. I discovered an interest in programming at CSE 8A (Yay, *Python!
 
 I taught myself *a bit of* React (JavaScript frontend) and Django (Python backend) and used them on a few projects. 
 
-To be honest, I'd never think too seriously about the code structure or *design*. All I did was worrying too much about time complexity (good habit if you grind LeetCode). 
+To be honest, I'd never think too seriously about the code **structure** or *design* (hope to learn more about them in **CSE 110**!) in my projects. All I did was worrying about the time complexity (good habit if you grind LeetCode; ~~not so helpful otherwise~~). 
 
 When I am not coding, you may find me either `(`in front of a piano `||` smashing badminton `||` reading sci-fi by Liu Cixin`)`. 
 
@@ -26,9 +26,7 @@ Bruh
 > You can fool some people all the time. You can fool all people some of the time. But you can't fool all people all the time. 
 
 ## Quoting Code
-Use backticks to wrap your codes!
-
-Rotate the matrix 90-degrees clockwise (in python): 
+***Rotate a matrix by 90-degrees clockwise (in python): ***
 
 `M = zip(*M[::-1])`
 
@@ -61,4 +59,4 @@ Man here's another [relative link](screenshots/7.%20staged%20changes%20(cmd%20li
 - [x]  Ti, a drink with jam and bread
 - [ ]  and that'll bring us back to dol
     
-(from *Sound of Music*)
+(from *The Sound of Music*)
