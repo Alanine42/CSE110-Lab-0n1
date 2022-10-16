@@ -1,3 +1,9 @@
 # CSE110-Lab-0n1
 
-All the good stuffs are in the `fav-language` branch, check it out :)
+
+Alan's User Page
+
+URL: https://alanine42.github.io/CSE110-Lab-0n1/
+
+My favorite programming language (so far): Python
+
